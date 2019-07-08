@@ -10,4 +10,4 @@
 - koa [预览](https://github.com/JackieStar/hotboom)
 - npm (正在创建npm项目包，计划用TypeScript来写)
 - TypeScript 
-- 前端优化
+- 前端优化 [预览](https://jackiestar.github.io/optimize/web.html)
